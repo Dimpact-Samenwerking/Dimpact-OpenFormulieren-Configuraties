@@ -27,7 +27,7 @@ maintenance:
   contacts: []
   contractors: []
   type: none
-name: Evaluatie coordinatoren 2 daagse
+name: Inschrijfformulier bijeenkomst zaak
 nl:
   vng:
     commonground: []
@@ -46,4 +46,4 @@ softwareType: configurationFiles
 softwareVersion: ''
 url: https://github.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties
 usedBy: []
-downloads: ['form_evaluatie-coordinatoren-2-daagse.zip']
+downloads: ['form_inschrijfformulier-bijeenkomst-zaak.zip']
