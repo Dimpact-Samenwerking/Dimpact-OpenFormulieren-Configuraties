@@ -41,7 +41,9 @@ platforms:
 publiccodeYmlVersion: '0.2'
 releaseDate: '2024-02-22'
 roadmap: ''
-softwareType: standalone/web
+applicationSuite: "http://github.com/open-formulieren/open-forms.git"
+softwareType: configurationFiles
 softwareVersion: ''
 url: https://github.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties
 usedBy: []
+downloads: ['form_evaluatie-coordinatoren-2-daagse.zip']
