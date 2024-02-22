@@ -1,0 +1,49 @@
+categories:
+- it-development
+description:
+  en:
+    apiDocumentation: ''
+    awards: []
+    documentation: ''
+    features: []
+    genericName: ''
+    localisedName: ''
+    longDescription: ''
+    screenshots: []
+    shortDescription: ''
+    videos: []
+developmentStatus: development
+landingURL: ''
+legal:
+  authorsFile: ''
+  license: ''
+  mainCopyrightOwner: ''
+  repoOwner: ''
+localisation:
+  availableLanguages:
+  - en
+  localisationReady: false
+maintenance:
+  contacts: []
+  contractors: []
+  type: none
+name: Evaluatie coordinatoren 2 daagse
+nl:
+  vng:
+    commonground: []
+    gemma: []
+organisation:
+  logo: https://avatars.githubusercontent.com/u/55496933?v=4
+  name: Dimpact-Samenwerking
+  url: Dimpact-Samenwerking
+platforms:
+- web
+publiccodeYmlVersion: '0.2'
+releaseDate: '2024-02-22'
+roadmap: ''
+applicationSuite: "http://github.com/open-formulieren/open-forms.git"
+softwareType: configurationFiles
+softwareVersion: ''
+url: https://github.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties
+usedBy: []
+downloads: ['form_evaluatie-coordinatoren-2-daagse.zip']
