@@ -1,5 +1,6 @@
 categories:
 - it-development
+name: Evaluatie coordinatoren 2 daagse
 description:
   en:
     apiDocumentation: ''
@@ -13,6 +14,7 @@ description:
     shortDescription: ''
     videos: []
 developmentStatus: development
+logo: "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg"
 landingURL: ''
 legal:
   authorsFile: ''
@@ -27,7 +29,6 @@ maintenance:
   contacts: []
   contractors: []
   type: none
-name: Evaluatie coordinatoren 2 daagse
 nl:
   vng:
     commonground: []
@@ -46,4 +47,5 @@ softwareType: configurationFiles
 softwareVersion: ''
 url: https://github.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties
 usedBy: []
-downloads: ['form_evaluatie-coordinatoren-2-daagse.zip']
+downloadUrls:
+  - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties/main/form_evaluatie-coordinatoren-2-daagse/form_evaluatie-coordinatoren-2-daagse.zip"
