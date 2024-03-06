@@ -31,7 +31,9 @@ maintenance:
   type: none
 nl:
   vng:
-    commonground: []
+    commonground:
+      layerType: interface
+      installationType: self
     gemma: []
 organisation:
   logo: https://avatars.githubusercontent.com/u/55496933?v=4
