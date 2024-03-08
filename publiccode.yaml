@@ -6,7 +6,7 @@ description:
     awards: []
     documentation: ''
     features: []
-    genericName: Een test voor het delen van formulier configuraties via open catalogi
+    genericName: Repository voor het beheren van Dimpact Open Formulieren Configuraties
     localisedName: ''
     longDescription: ''
     screenshots: []
@@ -21,21 +21,21 @@ legal:
   repoOwner: ''
 localisation:
   availableLanguages:
-  - en
+  - nl
   localisationReady: false
 maintenance:
   contacts: []
   contractors: []
   type: none
-name: Dimpact-OpenFormulieren-Configuraties
+name: Dimpact OpenFormulieren Configuraties
 nl:
   vng:
     commonground: []
     gemma: []
 organisation:
   logo: https://avatars.githubusercontent.com/u/55496933?v=4
-  name: Dimpact-Samenwerking
-  url: Dimpact-Samenwerking
+  name: Dimpact
+  url: https://www.dimpact.nl/
 platforms:
 - web
 publiccodeYmlVersion: '0.2'

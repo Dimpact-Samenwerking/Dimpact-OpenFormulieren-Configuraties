@@ -37,8 +37,8 @@ nl:
     gemma: []
 organisation:
   logo: https://avatars.githubusercontent.com/u/55496933?v=4
-  name: Dimpact-Samenwerking
-  url: Dimpact-Samenwerking
+  name: Dimpact
+  url: https://www.dimpact.nl/
 platforms:
 - web
 publiccodeYmlVersion: '0.2'
@@ -48,6 +48,6 @@ applicationSuite: "http://github.com/open-formulieren/open-forms.git"
 softwareType: configurationFiles
 softwareVersion: ''
 url: https://github.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties
-usedBy: []
+usedBy: ['https://www.dimpact.nl/']
 downloadUrls:
   - "https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-OpenFormulieren-Configuraties/main/form_testformulier-dimpact-service/form_testformulier-dimpact-service.zip"
